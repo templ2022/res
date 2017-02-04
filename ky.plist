@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>downloadtype</key>
+	<string>0</string>
+	<key>kycode</key>
+	<string>0e4a299ff53509ec2662a425189e7c55</string>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://ccpic.wanmeiyueyu.com/Data/packageinfo/27/68/com.kuaiyong.browser/4.0.1.0/pc_dizigui_com.kuaiyong.browser_0e4a299ff53509ec2662a425189e7c55.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://pic.wanmeiyueyu.com/Data/APPINFOR/27/68/com.kuaiyong.browser/icon_1425225600.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://pic.wanmeiyueyu.com/Data/APPINFOR/27/68/com.kuaiyong.browser/icon_1425225600.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>E9R0Re9WljLYBrrySpWowXV8SgwJRwto4.dLm2fl8sy32Ni.dzoTy2sekZ6Eg93ehuD</string>
+				<key>bundle-version</key>
+				<string>4.0.1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>快用</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
