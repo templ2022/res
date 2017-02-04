@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://iosapps.itunes.apple.com/apple-assets-us-std-000001/Purple111/v4/fe/ba/6f/feba6f63-85c0-d65d-e535-302447a3b9b3/pre-thinned3343939262384310162.lc.3967437129989058.57Q4WPQ2HIREI.signed.dpkg.ipa?accessKey=1486395145_8723485373271422911_V%2BpdYGlALOSvQDADQ0XCUpUHK1kv2gwiRW5%2BA1nGoQ%2BW8WtZY5z6DQlSCHJpPiWGc%2Fxr7R726yOCoyqAhk8VPeVF586ldgs5xqvQOsHdieyeVFbUvTzbSiDtfYUE9D2WLd9qOk5GGw1InbzY2fSmkLQmKPnZdbvKNppTAT3dKYvrC2cnC6Cr5LGXbncBPiONimL%2BPuaxQqOErU4K8bgzAd0hve7ZoZKzbqirt9ZAEp7ceIdOd4pljBNsUlS2%2BjaegbjuiTiqnz%2FiEtPsgAGwUg%3D%3D</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://p5.xyzsq.com/app/44/cb/100001181/aa29f37a97869d17f45bff7ed91a2e6b_175.jpg?1481770865</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.netease.meixuekuaiyong</string>
+				<key>bundle-version</key>
+				<string>1.2.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>网易美学</string>
+				<key>title</key>
+				<string>网易美学</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
