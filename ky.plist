@@ -2,10 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>downloadtype</key>
-	<string>0</string>
-	<key>kycode</key>
-	<string>0e4a299ff53509ec2662a425189e7c55</string>
 	<key>items</key>
 	<array>
 		<dict>
