@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kuaiyong.browser</string>
+				<string>com.MockingBot.MockingBot</string>
 				<key>bundle-version</key>
-				<string>4.0.1.0</string>
+				<string>8.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>快用</string>
+				<string>墨刀</string>
 			</dict>
 		</dict>
 	</array>
