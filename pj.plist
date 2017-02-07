@@ -20,14 +20,6 @@
 <string>http://ifcv.7659.com/Data/APPINFOR/34/92/com.ehoogames.project1000/dizigui_zhouyi_com.ehoogames.project1000_1_a91e658a0917644ac71ac7bc10b859d6_0.0.04.35.ipa</string></dict>
 <dict>
 <key>kind</key>
-<string>full-size-image</string>
-<key>needs-shine</key>
-<true/>
-<key>url</key>
-<string>http://pic.wanmeiyueyu.com/Data/APPINFOR/34/92/com.ehoogames.project1000/icon_1485100800.png</string>
-</dict>
-<dict>
-<key>kind</key>
 <string>display-image</string>
 <key>needs-shine</key>
 <true/>
